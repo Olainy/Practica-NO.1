@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\EjercicioNO.6\EjercicioNO.6\bin\Debug\EjercicioNO.6.exe.config
+C:\Users\user\source\repos\EjercicioNO.6\EjercicioNO.6\bin\Debug\EjercicioNO.6.exe
+C:\Users\user\source\repos\EjercicioNO.6\EjercicioNO.6\bin\Debug\EjercicioNO.6.pdb
+C:\Users\user\source\repos\EjercicioNO.6\EjercicioNO.6\obj\Debug\EjercicioNO.6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EjercicioNO.6\EjercicioNO.6\obj\Debug\EjercicioNO.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\EjercicioNO.6\EjercicioNO.6\obj\Debug\EjercicioNO.6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EjercicioNO.6\EjercicioNO.6\obj\Debug\EjercicioNO.6.exe
+C:\Users\user\source\repos\EjercicioNO.6\EjercicioNO.6\obj\Debug\EjercicioNO.6.pdb
